@@ -1,0 +1,114 @@
+body{
+    background-image:url("https://ih0.redbubble.net/image.434260583.2457/raf,750x1000,075,t,101010:01c5ca27c6.jpg");  
+     background-size:7%;
+}
+h1{
+    font-size:40px;
+    color:blue;
+    font-family: 'Dawning of a New Day', cursive;
+}
+p{
+   color:white;
+   font-size:20px;
+   font-family: 'Dawning of a New Day', cursive;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.blue{
+    color:blue;
+}
+.blue2{
+    color:blue;
+}
+.legosans{
+    display:block;
+    text-align:center;
+    border:7px blue solid;
+    width:50%;
+    margin:0 auto; 
+    margin-bottom:47px;
+    background-color:white;
+}
+.menu{
+   display:flex;
+   border:5px white solid;
+   border-bottom:none;
+   background-color:yellow;
+   justify-content:space-around;
+   width:100%;
+   margin:0 auto;
+   padding:20px;
+}
+.butt0n{
+    display:flex;
+   border:5px white solid;
+   border-top:none;
+   background-color:yellow;
+   justify-content:space-around;
+   width:100%;
+   margin:0 auto;
+   padding:20px;
+}
+.imagelist{
+    display:flex;
+    flex-direction:row;
+    width:33%;
+}
+
+.pricelist{
+    display:flex;
+    flex-direction:row;
+    width:33%;
+}
+
+.namelist{
+    display:flex;
+    flex-direction:row;
+    width:33%;
+}
+
+.overall{
+    display:flex;
+    flex-direction:column;
+    background-color:blue;
+    border:solid white 5px;
+    width:100%;
+    padding:20px;
+    margin:0 auto;
+    border-top:none;
+}
+.checkout{
+    display:flex;
+   border:5px white solid;
+   border-top:none;
+   background-color:yellow;
+   justify-content:space-around;
+   width:100%;
+   margin:0 auto;
+   padding:20px;
+}
+
+.totals{
+    display:flex;
+   border:5px white solid;
+   border-top:none;
+   border-bottom:none;
+   background-color:yellow;
+   justify-content:space-around;
+   width:100%;
+   margin:0 auto;
+   padding:20px;
+}
+
+.yay{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color:blue;
+    width:100%;
+    padding:20px;
+    margin:0 auto;
+}
